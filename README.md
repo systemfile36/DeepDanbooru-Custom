@@ -1,9 +1,16 @@
+Personally Customized AI training Tool and environment based on DeepDanbooru by KichangKim.
+
+Licensed under the MIT License.
+
+---
+
 # DeepDanbooru
 [![Python](https://img.shields.io/badge/python-3.11-green)](https://www.python.org/doc/versions/)
 [![GitHub](https://img.shields.io/github/license/KichangKim/DeepDanbooru)](https://opensource.org/licenses/MIT)
-[![Web](https://img.shields.io/badge/web%20demo-20200915-brightgreen)](http://kanotype.iptime.org:8003/deepdanbooru/)
 
-**DeepDanbooru** is anime-style girl image tag estimation system. You can estimate your images on my live demo site, [DeepDanbooru Web](http://dev.kanotype.net:8003/deepdanbooru/).
+**DeepDanbooru** is anime-style girl image tag estimation system.
+
+I customize it for studying AI personally. 
 
 ## Requirements
 DeepDanbooru is written by Python 3.11. Following packages are need to be installed.
